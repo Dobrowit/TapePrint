@@ -22,3 +22,8 @@ options:
   -t, --test                        Test bez wydruku
   -g, --no_gui                      Wyłączenie dialogów GUI
 ```
+
+Przykład użycia:
+```
+.\TapePrint.py --drukarka ZEBRA --plik example.txt -K -r -g --test
+```
