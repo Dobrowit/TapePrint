@@ -7,7 +7,7 @@ Etykiety drukowane są za pomocą języka [ZPL](https://en.wikipedia.org/wiki/Ze
 
 Wygląd etykiet można modyfikować zmieniając funkcję generuj_zpl_tekst().
 ```
-Użycie: TapePrint.py [-h] [-d DRUKARKA] [-f PLIK] [-k] [-K] [-r] [-n N] [-t] [-g]
+usage: TapePrint.py [-h] [-d DRUKARKA] [-f PLIK] [-k] [-K] [-r] [-n N] [-t] [-g]
 
 Drukowanie etykiet z pliku .txt na drukarce Zebra
 
