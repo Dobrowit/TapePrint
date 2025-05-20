@@ -5,7 +5,7 @@ Plik tekstowy musi zawierać po jednej linijce tekstu na etykietę. Przydatne pr
 
 Etykiety drukowane są za pomocą języka [ZPL](https://en.wikipedia.org/wiki/Zebra_Programming_Language).
 
-Wygląd etykiet można modyfikować zmieniając funkcję generuj_zpl_tekst(). Przy tym może być pomocny [edytor](https://labelary.com/viewer.html).
+Wygląd etykiet można modyfikować zmieniając funkcję [generuj_zpl_tekst()](https://github.com/Dobrowit/TapePrint/blob/main/TapePrint.py#L35). Przy tym może być pomocny [edytor](https://labelary.com/viewer.html).
 ```
 usage: TapePrint.py [-h] [-d DRUKARKA] [-f PLIK] [-k] [-K] [-r] [-n N] [-t] [-g]
 
